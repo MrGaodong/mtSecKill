@@ -44,7 +44,7 @@
   - [google浏览器]
 
 ## IntelliJ IDEA 集成
-  - 如何在 IDEA 中导入、配置和运行本项目？请查看 [IDEA 集成指南](IDEA_INTEGRATION.md)
+  - 如何在 IDEA 中导入、配置和运行本项目？请查看 [IDEA 集成指南](IDEA_INTEGRATION.md) | [English Guide](IDEA_INTEGRATION_EN.md)
    
 ## 运行参数
  - mtSecKill -sku=100012043978 -num=2 -works=6 -time=09:59:59 运行参数 均有默认可以不加
